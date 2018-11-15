@@ -1,0 +1,13 @@
+* {
+    font-family: 'Cormorant', serif;
+    font-weight: 500;
+    font-style: italic;
+    font-size: 72px;
+    background: #F2CCC3;
+    color: #0063C6; 
+}
+
+.wrapper > p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
